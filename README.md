@@ -15,6 +15,6 @@ Copyright: This script is © Texas Instruments Incorporated and is included here
 This script visualize the detected point cloud in 3d frame by frame.
 Usage: `python reply.py <point_cloud.csv>`
 
-## 4. `visualize.py`
+### 4. `visualize.py`
 This script plots the detected points positions over time.
 Usage: `python visualize.py <point_cloud.csv>`
